@@ -13,7 +13,7 @@
       "sizes": "256x256"
     }
   ],
-  "start_url": "/",
+  "start_url": "/igo2-tq-app/",
   "background_color": "#ffffff",
   "display": "standalone",
   "theme_color": "#ffffff",
